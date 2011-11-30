@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/brain/development/ruby/showoff/showoff/example/one'
+let g:netrw_dirhist_2='/Users/brain/Library/Calendars/91C0EA47-0F80-4454-8D8C-6B96322A2FC2.caldav'
+let g:netrw_dirhist_3='/Users/brain/Library/Calendars/48C76836-E6DE-435A-86AC-8F9FEF659367.calendar'
+let g:netrw_dirhist_4='/Users/brain/development/ruby/test/lib/test'
+let g:netrw_dirhist_5='/Users/brain/development/ruby/time_tracker/time_tracker/lib/time_tracker'
